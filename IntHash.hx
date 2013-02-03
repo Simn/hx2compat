@@ -1,0 +1,1 @@
+typedef IntHash = haxe.ds.IntMap;
