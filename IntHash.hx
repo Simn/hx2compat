@@ -1,1 +1,1 @@
-typedef IntHash = haxe.ds.IntMap;
+typedef IntHash<T> = haxe.ds.IntMap<T>;
