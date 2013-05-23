@@ -1,3 +1,3 @@
 package haxe;
 
-typedef FastList = haxe.ds.GenericStack;
+typedef FastList<T> = haxe.ds.GenericStack<T>;
