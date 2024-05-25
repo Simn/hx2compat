@@ -1,7 +1,7 @@
 {
   "name": "hx2compat",
   "url": "https://github.com/Simn/hx2compat",
-  "license": "BSD",
+  "license": "MIT",
   "tags": ["cross"],
   "description": "Some haxe 2 types for easier migration to haxe 3.",
   "version": "1.0.2",
